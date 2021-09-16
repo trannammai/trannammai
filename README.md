@@ -2,7 +2,7 @@
 - 👀 I’m interested in Statistics, MLOps and Data Visualisation, especially in the field of Marketing and Customer Knowledge.
 - 👩🏽‍💻 I’m currently cultivating my knowledge in building data resilient batch and streaming data pipelines either on premise or in the cloud, CI/CD and version control aiming to become a full-stack analytics/data engineer
 - 🦾 I will be sharing my knowledge about my domains of interest as well as my journey to achieve that goal
-- 📫 You can reach me at tnmai0709@gmail.com in Vietnamese, English or French for any project collaboration or professional matters
+- 📫 You can reach me at tnmai0709@gmail.com in Vietnamese, English or French for any project collaboration and professional matters
 
 <!---
 trannammai/trannammai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
