@@ -7,9 +7,9 @@
 👩🏽‍💻 I’m currently cultivating my knowledge in data engineering such as building data resilient batch and streaming data pipelines (on premise and in the cloud), CI/CD, containers and version control aiming to become a full-stack analytics/data engineer <br>
 🦾 I will be sharing my knowledge about my domains of interest as well as my journey to achieve that goal <br>
 📫 You can reach me at 
-<img src="https://img.icons8.com/material-outlined/24/000000/linkedin--v1.png"/>
-<img src="https://img.icons8.com/ios-glyphs/30/000000/twitter--v2.png"/>
-<img src="https://img.icons8.com/color/48/000000/new-post.png"/>
+<img src="https://img.icons8.com/material-outlined/24/000000/linkedin--v1.png" width="10" height="10"/>
+<img src="https://img.icons8.com/ios-glyphs/30/000000/twitter--v2.png" width="10" height="10"/>
+<img src="https://img.icons8.com/color/48/000000/new-post.png" width="10" height="10"/>
 
 in Vietnamese, English or French for any project collaboration and professional matters <br>
 
