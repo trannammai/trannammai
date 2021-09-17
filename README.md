@@ -6,7 +6,8 @@
 👀 I’m interested in Statistics, MLOps and Data Visualisation, especially in the field of Marketing and Customer Knowledge <br>
 👩🏽‍💻 I’m currently cultivating my knowledge in data engineering such as building data resilient batch and streaming data pipelines (on premise and in the cloud), CI/CD, containers and version control aiming to become a full-stack analytics/data engineer <br>
 🦾 I will be sharing my knowledge about my domains of interest as well as my journey to achieve that goal <br>
-📫 You can reach me at <br>
+
+* You can reach me at <br>
 <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="20" height="20"/> (http://google.com.au/)  <br>
 <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="20" height="20"/> <br>
 <img src="https://img.icons8.com/color/48/000000/new-post.png" width="20" height="20"/> <br>
