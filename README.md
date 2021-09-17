@@ -3,9 +3,9 @@
 </p>
 
 👋 Hello, I'm Nam-Mai TRAN, a vietnamese born and raised now living and working in France for Micropole, a IT/Data Consulting firm in Paris <br>
-👀 I’m interested in Statistics, MLOps and Data Visualisation, especially in the field of Marketing and Customer Knowledge. You can also find me hiking and cycling with in the panoramic roads in France and Europe when I'm not with my computer. I also love learning French to better communicate with my colleagues <br>
+👀 I’m interested in Statistics, MLOps and Data Visualisation, especially in the field of Marketing and Customer Knowledge. You can also find me hiking and cycling with in the panoramic roads in France and Europe when I'm not with my computer. I also love learning French to better communicate with my colleagues that I have been spending 6 hours a week for it <br>
 👩🏽‍💻 I’m currently cultivating my knowledge in data engineering such as building data resilient batch and streaming data pipelines (on premise and in the cloud), CI/CD, containers and version control aiming to become a full-stack analytics/data engineer <br>
-🦾 I will be sharing my knowledge about my domains of interest as well as my journey to achieve that goal <br>
+🦾 I will be sharing my knowledge about my domains of interest as well as the journey to achieve my career goal. <br>
 
 You can reach me at these below-mentioned adresses for any project collaboration or professional inquiries: <br>
 <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="20" height="20"/> www.linkedin.com/in/trannammai  <br>
