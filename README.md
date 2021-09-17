@@ -1,4 +1,4 @@
-![Alt Text](https://miro.medium.com/max/1400/1*X7Q84nkQN1DiFXC-rQLt9g.gif)
+![Alt Text](https://i0.wp.com/media1.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)
 
 
 👋 Hello, I'm Nam-Mai TRAN, a vietnamese born and raised now living and working in Micropole, a IT/Data Consulting firm in Paris <br>
