@@ -8,8 +8,8 @@
 🦾 I will be sharing my knowledge about my domains of interest as well as my journey to achieve that goal <br>
 
 You can reach me at these below-mentioned adress for any project collaboration or professional matters <br>
-<img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="20" height="20"/> https://www.linkedin.com/in/trannammai/  <br>
-<img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="20" height="20"/> https://twitter.com/trannammai <br>
+<img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="20" height="20"/> www.linkedin.com/in/trannammai  <br>
+<img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="20" height="20"/> twitter.com/trannammai <br>
 <img src="https://img.icons8.com/color/48/000000/new-post.png" width="20" height="20"/> tnmai0709@gmail.com <br>
 
 <!---
