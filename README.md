@@ -3,7 +3,7 @@
 </p>
 
 👋 Hello, I'm Nam-Mai TRAN, a vietnamese born and raised now living and working in Paris, France. <br>
-👀 I’m interested in Statistics, MLOps and Data Visualisation, especially in the field of Marketing and Customer Knowledge. You can also find me with my Nintendo Swtich or hiking and cycling with in the panoramic roads in France when I'm not with my computer. I also enjoy learning French to better communicate with my colleagues. <br>
+👀 I’m interested in Statistics, MLOps and Data Visualisation, especially in the field of Marketing and Customer Knowledge. You can also find me with my Nintendo Switch or hiking and cycling with in the panoramic roads in France when I'm not with my computer. I also enjoy learning French to better communicate with my colleagues. <br>
 👩🏽‍💻 Despite not having a proper background in data engineering, I’m cultivating my knowledge in building resilient batch and streaming data pipelines (on premise and in the cloud), CI/CD, containerizing and version control. I believe those skills would complete me as a data professional who is able to deliver pragmatical end-to-end analytics solution for clients. <br>
 🦾 I will be sharing my knowledge about my domains of interest as well as the journey to achieve my career goal. <br>
 
