@@ -3,7 +3,8 @@
 </p>
 
 👋 Hello, I'm Nam-Mai TRAN, a Vietnamese born and raised now living and working in France. <br>
-👩🏽‍💻 I’m passionate about both data engineering and teaching, and I'm looking to merge these interests into a single career. If I were not a data engineer, I would be opening a Vietnamese-style dessert shop owner (Chè), allowing me to spend my days indulging in my second hobby <br>
+👨‍💻 I’m passionate about both data engineering and teaching, and I'm looking to merge these interests into a single career. 
+༼ つ ◕_◕ ༽つ🍰🍔🍕 If I were not a data engineer, I would be opening a Vietnamese-style dessert shop owner (Chè), allowing me to spend my days indulging in my second hobby <br>
 
 You can reach me at these below-mentioned adresses for any project collaboration or professional inquiries: <br>
 <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="20" height="20"/> www.linkedin.com/in/trannammai  <br>
