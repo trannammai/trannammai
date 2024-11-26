@@ -8,7 +8,6 @@
 
 You can reach me at these below-mentioned addresses for any project collaboration or professional inquiries: <br>
 <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="20" height="20"/> www.linkedin.com/in/trannammai  <br>
-<img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="20" height="20"/> www.twitter.com/trannammai <br>
 <img src="https://img.icons8.com/color/48/000000/new-post.png" width="20" height="20"/> trannammai.fr@gmail.com <br>
 
 <!---
