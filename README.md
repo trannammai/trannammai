@@ -3,8 +3,8 @@
 </p>
 
 👋 Hello! Welcome to my page <br>
-👨‍💻 I'm Nam Mai. I'm particularly interested in Data Engineering and its subfields: Analytics Engineering, MLOps, and Data Visualisation <br>
-༼ つ ◕_◕ ༽つ🍰🍔🍕 If I were not a data engineer, I would be a business owner selling Chè (Vietnamese-style dessert), making money to travel around the world at the age of 45 <br>
+👨‍💻 I'm Nam Mai. I'm particularly interested in Data Engineering and its subdomains: Analytics Engineering, MLOps, and Data Visualisation <br>
+༼ つ ◕_◕ ༽つ🍰🍔🍕 If I were not a data engineer, I would be a business owner selling Chè (Vietnamese-style dessert), making as profit as possible to travel around the world at the age of 45 <br>
 
 You can reach me at these below-mentioned addresses for any project collaboration or professional inquiries: <br>
 <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="20" height="20"/> www.linkedin.com/in/trannammai  <br>
