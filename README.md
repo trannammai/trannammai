@@ -4,7 +4,7 @@
 
 # 👋 Welcome to My GitHub Page!
 
-Hi there! I'm **Nam Mai**, a passionate data engineer born in Vietnam and currently living in France. My professional interests revolve around **Data Engineering** and its subdomains, including:
+Hi there! I'm **Nam Mai**, a passionate data engineer born in Vietnam and living in France. My professional interests revolve around **Data Engineering** and its subdomains, including:
 
 - 📊 **Analytics Engineering**
 - 🤖 **MLOps**
