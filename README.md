@@ -13,28 +13,65 @@ Hi there! I'm **Nam Mai**, a passionate data engineer born in Vietnam and living
 ### Fun Fact About Me:
 If I weren't a data engineer, I'd probably be a business owner selling *Chè* (Vietnamese-style dessert), striving to earn enough to travel the world by the age of 45. 🌏
 
-### I had the privilege of working with:
-![image](https://github.com/user-attachments/assets/0be7f67c-c86a-4203-accf-840e36f3334d)
-![image](https://github.com/user-attachments/assets/65f2f90e-a7c0-4b33-bce1-4ff882d16096)
-![image](https://github.com/user-attachments/assets/24041545-b416-4d3d-8a6c-f5571e63761a)
-![image](https://github.com/user-attachments/assets/a5bff4c1-ef42-4df3-bff1-2c751d5be47a)
+### **Relevant experience**  
 
-### Projects
-Data Science
-1. Analyzing discount clients using classification models
-2. Predicting electricity consumption to better pricing 
-   
-Data Engineering
-1. MySQL to BigQuery using Docker
-2. CI/CD Pipeline for Power BI development
+I have had the privilege of collaborating with esteemed organizations across diverse industries:  
 
-Teaching
-EPF Engineering School:
-- Data Analysis with Python (2022, 2023, 2024, 2025)
-- Advanced Python Programming (2024, 2025)
-- Business Intelligence (2024, 2025)
+<div style="display: flex; justify-content: space-around; align-items: center; text-align: center; gap: 10px;">
 
-Blog
+<div style="width: 18%;">
+   <img src="https://www.datagalaxy.com/wp-content/uploads/2024/03/logo-micropole.500x400.png" alt="Micropole Logo" style="width: 100%;">
+   <p><strong>Micropole</strong><br>A consulting firm specializing in digital transformation and data analytics.</p>
+</div>
+
+<div style="width: 18%;">
+   <img src="https://mma.prnewswire.com/media/1034652/Moet_Hennessy_Logo.jpg?p=twitter" alt="Moët Hennessy Logo" style="width: 100%;">
+   <p><strong>Moët Hennessy</strong><br>A leading maison of LVMH, recognized for premium wines and spirits.</p>
+</div>
+
+<div style="width: 18%;">
+   <img src="https://upload.wikimedia.org/wikipedia/fr/0/0b/SOCOTEC-LOGO.png" alt="Socotec Logo" style="width: 100%;">
+   <p><strong>Socotec</strong><br>France’s leader in certification and technical advisory services.</p>
+</div>
+
+<div style="width: 18%;">
+   <img src="https://www.stac.aviation-civile.gouv.fr/themes/stac9/img/logo-dgac-footer.png" alt="DGAC Logo" style="width: 100%;">
+   <p><strong>DGAC</strong><br>The French civil aviation authority, ensuring aviation safety and R&D.</p>
+</div>
+
+<div style="width: 18%;">
+   <img src="https://adymrxvmro.cloudimg.io/v7/sherpas.com/content/uploads/2021/10/enac-1-e1628500785136.png" alt="DEVI Logo" style="width: 100%;">
+   <p><strong>DEVI</strong><br>A research unit at ENAC advancing data insights in aviation.</p>
+</div>
+
+</div>
+
+### **Projects**  
+
+#### **Data Science**  
+1. **Analyzing Discount Clients**  
+   - Built classification models to identify discount clients and optimize marketing strategies.  
+2. **Predicting Electricity Consumption**  
+   - Developed models for forecasting electricity usage, enabling better pricing and resource management.  
+
+#### **Data Engineering**  
+1. **MySQL to BigQuery Migration**  
+   - Migrated large datasets from MySQL to BigQuery using Dockerized solutions.  
+2. **CI/CD Pipeline for Power BI**  
+   - Designed and implemented a CI/CD pipeline to streamline Power BI development.  
+
+---
+
+### **Teaching Experience**  
+**EPF Engineering School**  
+- *Data Analysis with Python*: 2022, 2023, 2024, 2025  
+- *Advanced Python Programming*: 2024, 2025  
+- *Business Intelligence*: 2024, 2025  
+
+---
+
+### **Blog**  
+Sharing insights on data science, engineering, and education. Stay tuned for upcoming articles!  
 
 ---
 
