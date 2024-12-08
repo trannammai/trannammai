@@ -17,10 +17,6 @@ If I weren't a data engineer, I'd probably be a business owner selling *Chè* (V
 
 I have had the privilege of collaborating with esteemed organizations across diverse industries:  
 
-### **Experience in the Data Field**  
-
-I have had the privilege of collaborating with esteemed organizations across diverse industries:  
-
 - **[Micropole](https://www.micropole.com/)**  
    A consulting firm based in Levallois-Perret, France, specializing in digital transformation, performance management, and data analytics.  
 
