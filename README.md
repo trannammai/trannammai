@@ -20,9 +20,21 @@ If I weren't a data engineer, I'd probably be a business owner selling *Chè* (V
 ![image](https://github.com/user-attachments/assets/a5bff4c1-ef42-4df3-bff1-2c751d5be47a)
 
 ### Projects
-Econometrics - Data Science
+Data Science
+1. Analyzing discount clients using classification models
+2. Predicting electricity consumption to better pricing 
+   
 Data Engineering
+1. MySQL to BigQuery using Docker
+2. CI/CD Pipeline for Power BI development
+
 Teaching
+EPF Engineering School:
+- Data Analysis with Python (2022, 2023, 2024, 2025)
+- Advanced Python Programming (2024, 2025)
+- Business Intelligence (2024, 2025)
+
+Blog
 
 ---
 
