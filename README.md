@@ -17,36 +17,26 @@ If I weren't a data engineer, I'd probably be a business owner selling *Chè* (V
 
 I have had the privilege of collaborating with esteemed organizations across diverse industries:  
 
-<div style="display: flex; justify-content: space-around; align-items: center; text-align: center; gap: 10px;">
+### **Experience in the Data Field**  
 
-<div style="width: 18%;">
-   <img src="https://www.datagalaxy.com/wp-content/uploads/2024/03/logo-micropole.500x400.png" alt="Micropole Logo" style="width: 100%;">
-   <p><strong>Micropole</strong><br>A consulting firm specializing in digital transformation and data analytics.</p>
-</div>
+I have had the privilege of collaborating with esteemed organizations across diverse industries:  
 
-<div style="width: 18%;">
-   <img src="https://mma.prnewswire.com/media/1034652/Moet_Hennessy_Logo.jpg?p=twitter" alt="Moët Hennessy Logo" style="width: 100%;">
-   <p><strong>Moët Hennessy</strong><br>A leading maison of LVMH, recognized for premium wines and spirits.</p>
-</div>
+- **[Micropole](https://www.micropole.com/)**  
+   A consulting firm based in Levallois-Perret, France, specializing in digital transformation, performance management, and data analytics.  
 
-<div style="width: 18%;">
-   <img src="https://upload.wikimedia.org/wikipedia/fr/0/0b/SOCOTEC-LOGO.png" alt="Socotec Logo" style="width: 100%;">
-   <p><strong>Socotec</strong><br>France’s leader in certification and technical advisory services.</p>
-</div>
+- **[Moët Hennessy](https://www.moet-hennessy.com/)**  
+   A leading maison of LVMH, the global leader in luxury goods, recognized for its premium wines and spirits.  
 
-<div style="width: 18%;">
-   <img src="https://www.stac.aviation-civile.gouv.fr/themes/stac9/img/logo-dgac-footer.png" alt="DGAC Logo" style="width: 100%;">
-   <p><strong>DGAC</strong><br>The French civil aviation authority, ensuring aviation safety and R&D.</p>
-</div>
+- **[Socotec](https://www.socotec.com/)**  
+   France’s leader in certification, inspection, and technical advisory services, ensuring quality and compliance across industries.  
 
-<div style="width: 18%;">
-   <img src="https://adymrxvmro.cloudimg.io/v7/sherpas.com/content/uploads/2021/10/enac-1-e1628500785136.png" alt="DEVI Logo" style="width: 100%;">
-   <p><strong>DEVI</strong><br>A research unit at ENAC advancing data insights in aviation.</p>
-</div>
+- **[Direction Nationale de l'Aviation Civile (DGAC)](https://www.ecologie.gouv.fr/direction-generale-laviation-civile-dgac)**  
+   The French civil aviation authority under the Ministry of Ecological Transition. DGAC oversees aviation safety, air traffic control, aircraft certification, and R&D in aeronautical engineering.  
 
-</div>
+- **[DEVI (Données, Économie et Visualisation Interactive)](https://www.enac.fr/en/research)**  
+   A research unit at ENAC (École Nationale de l'Aviation Civile), dedicated to advancing data-driven insights in aviation economics and visualization.  
 
-### **Projects**  
+### **Personal Projects**  
 
 #### **Data Science**  
 1. **Analyzing Discount Clients**  
@@ -62,7 +52,7 @@ I have had the privilege of collaborating with esteemed organizations across div
 
 ---
 
-### **Teaching Experience**  
+### **Teaching**  
 **EPF Engineering School**  
 - *Data Analysis with Python*: 2022, 2023, 2024, 2025  
 - *Advanced Python Programming*: 2024, 2025  
