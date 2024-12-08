@@ -36,23 +36,30 @@ I have had the privilege of collaborating with esteemed organizations across div
 
 #### **Data Science**  
 1. **Analyzing Discount Clients**  
-   - Built classification models to identify discount clients and optimize marketing strategies.  
+   - Developed classification models to identify discount clients and optimize marketing strategies for a retail company, increasing targeting accuracy.  
 2. **Predicting Electricity Consumption**  
-   - Developed models for forecasting electricity usage, enabling better pricing and resource management.  
+   - Built forecasting models to predict electricity usage, enabling more precise per-consumer pricing and improved energy distribution.  
+3. **Churn Prediction**  
+   - Created predictive scoring models to identify potential churn risks for a telecom company, helping reduce customer attrition through targeted retention strategies.  
 
 #### **Data Engineering**  
 1. **MySQL to BigQuery Migration**  
-   - Migrated large datasets from MySQL to BigQuery using Dockerized solutions.  
+   - Led the migration of large datasets from MySQL to BigQuery using Dockerized solutions, ensuring smooth data transfer and scalability.  
 2. **CI/CD Pipeline for Power BI**  
-   - Designed and implemented a CI/CD pipeline to streamline Power BI development.  
+   - Designed and implemented a Continuous Integration/Continuous Deployment (CI/CD) pipeline to automate Power BI report updates, enhancing development efficiency and version control.  
+3. **Development of a DAG for Efficient File Error Handling**  
+   - Optimized a Directed Acyclic Graph (DAG) to handle file-related errors, including implementing retries, proper logging, and alerts, ensuring smooth workflow execution despite file issues.  
 
 ---
 
 ### **Teaching**  
 **EPF Engineering School**  
-- *Data Analysis with Python*: 2022, 2023, 2024, 2025  
-- *Advanced Python Programming*: 2024, 2025  
-- *Business Intelligence*: 2024, 2025  
+- *Data Analysis with Python*: [March 2023] [March 2024] [March 2025] 
+- *Advanced Python Programming*: [April 2025]
+- *Business Intelligence*: [September 2024]  
+
+** École Nationale de l'Aviation Civile
+- *Economics in Revenue Management*: [April 2018] [September 2018]  
 
 ---
 
