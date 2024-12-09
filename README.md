@@ -73,6 +73,6 @@ Sharing insights on data science, engineering, and education. Stay tuned for upc
 Feel free to reach out if you have any questions or just want to connect:
 
 - [![LinkedIn](https://img.icons8.com/fluency/20/000000/linkedin.png)](https://www.linkedin.com/in/trannammai) [**LinkedIn**](https://www.linkedin.com/in/trannammai)
-- [![Email](https://img.icons8.com/color/20/000000/new-post.png)](mailto:trannammai.fr@gmail.com) **Email**: trannammai.fr@gmail.com
+- [![Email](https://img.icons8.com/color/20/000000/new-post.png)](mailto:trannammai.fr@gmail.com) [**Email**](trannammai.fr@gmail.com)
 
 ---
