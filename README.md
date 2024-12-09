@@ -53,7 +53,7 @@ I have had the privilege of collaborating with esteemed organizations across div
 ---
 
 ### **Teaching**  
-**EPF Engineering School**  
+**[EPF Engineering School](https://www.epf.fr/formations/bachelor-numerique-strategie-numerique)**  
 - *Data Analysis with Python*: [March 2023] [March 2024] [March 2025] 
 - *Advanced Python Programming*: [April 2025]
 - *Business Intelligence*: [September 2024]  
